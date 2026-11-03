@@ -1,4 +1,4 @@
-module github.com/ivobrett/terraform-provider-upstash-box
+module github.com/oidebrett/terraform-provider-upstash-box
 
 go 1.23.0
 

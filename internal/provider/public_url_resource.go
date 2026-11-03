@@ -14,7 +14,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema/stringplanmodifier"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 
-	"github.com/ivobrett/terraform-provider-upstash-box/internal/client"
+	"github.com/oidebrett/terraform-provider-upstash-box/internal/client"
 )
 
 var _ resource.Resource = &publicURLResource{}

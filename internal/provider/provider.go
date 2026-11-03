@@ -11,7 +11,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/resource"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 
-	"github.com/ivobrett/terraform-provider-upstash-box/internal/client"
+	"github.com/oidebrett/terraform-provider-upstash-box/internal/client"
 )
 
 type upstashBoxProviderModel struct {
